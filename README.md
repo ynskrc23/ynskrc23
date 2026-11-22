@@ -1,3 +1,5 @@
+<p align="right"><sub><b>English</b> · <a href="https://github.com/ynskrc23/ynskrc23/blob/main/README.tr.md">Türkçe</a></sub></p>
+
 <h1 align="center">Hi, I'm Yunus Karaca 👋</h1>
 
 <p align="center">
