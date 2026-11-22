@@ -19,11 +19,11 @@
 
 ## 🙋 Hakkımda
 
-Yaklaşık altı yıllık backend deneyimine sahip bir yazılım mühendisiyim. Fırat Üniversitesi Yazılım Mühendisliği bölümünden mezun olduktan sonra içerik yönetim sistemi, e-ticaret, kampanya ve süreç takip sistemleri geliştirdim. Ağırlıklı olarak **PHP / Laravel** ve **ASP.NET Core** ile çalışıyor, **RESTful API**'ler tasarlıyor ve veritabanlarıyla bolca vakit geçiriyorum. Backend konularında [Medium](https://medium.com/@ynskrc82)'da yazılar da yazıyorum.
+Yaklaşık altı yıllık backend deneyimine sahip bir yazılım mühendisiyim. Fırat Üniversitesi Yazılım Mühendisliği bölümünden mezun olduktan sonra e-ticaret, stok, sipariş ve depo yönetim sistemlerinin yanı sıra içerik yönetimi, kampanya ve süreç takip projelerinde çalıştım. Ağırlıklı olarak **PHP** ve **.NET** ile geliştirme yapıyor, **RESTful API**'ler tasarlıyor; **MySQL**, **Elasticsearch**, **Kafka** ve **RabbitMQ** ile çalışıyorum. Backend konularında [Medium](https://medium.com/@ynskrc82)'da yazılar da yazıyorum.
 
 - 🏢 **Şu an:** Vivense'de Software Engineer (uzaktan)
-- 🧰 **Günlük araçlar:** PHP · Laravel · .NET · MySQL · PostgreSQL
-- 🔍 **İlgi alanlarım:** API tasarımı, mikroservisler, mesaj kuyrukları, önbellekleme
+- 🧰 **Günlük araçlar:** PHP · .NET · MySQL · Elasticsearch · Kafka · RabbitMQ
+- 🔍 **İlgi alanlarım:** e-ticaret backend'leri, mesajlaşma sistemleri, API tasarımı, mikroservisler
 - 🎮 **Yan uğraş:** küçük mobil oyunlar geliştirmek
 - 📍 **Konum:** Türkiye
 
@@ -32,7 +32,10 @@ Yaklaşık altı yıllık backend deneyimine sahip bir yazılım mühendisiyim. 
 **Software Engineer** · [Vivense](https://www.vivense.com)
 <br/><sub>Nis 2025 – Devam ediyor · İstanbul, Türkiye · Uzaktan</sub>
 
-- Vivense'in online mobilya ve ev e-ticaret platformunda PHP ile backend geliştirme
+- Online mobilya ve ev e-ticaret platformu [vivense.com](https://www.vivense.com)'un geliştirmelerinde ağırlıklı olarak PHP, gerektiğinde .NET ile görev alıyorum
+- Şirket içinde kullanılan yazılımların ve projelerin geliştirilmesinde yer alıyorum
+- Stok yönetimi, sipariş yönetimi ve depo yönetimi projelerinde görev aldım
+- Günlük işlerimde MySQL, Elasticsearch, Kafka ve RabbitMQ ile çalışıyorum
 
 **Software Engineer** · Sisord Teknoloji
 <br/><sub>Ara 2020 – Nis 2025 · İstanbul, Türkiye · Ofiste</sub>
@@ -48,7 +51,7 @@ Yaklaşık altı yıllık backend deneyimine sahip bir yazılım mühendisiyim. 
 |:--|:--|
 | **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,java,spring" alt="PHP, Laravel, .NET, C#, Java, Spring" /> |
 | **Veri** | <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch" alt="MySQL, PostgreSQL, Redis, Elasticsearch" /> &nbsp;+ MSSQL |
-| **Mesajlaşma ve araçlar** | <img src="https://skillicons.dev/icons?i=rabbitmq,docker,git,postman" alt="RabbitMQ, Docker, Git, Postman" /> |
+| **Mesajlaşma ve araçlar** | <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,git,postman" alt="Kafka, RabbitMQ, Docker, Git, Postman" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react" alt="JavaScript, HTML, CSS, Bootstrap, React" /> |
 
 ✅ Geçtiğim LinkedIn Yetenek Değerlendirmeleri: **PHP**, **.NET**, **MySQL**, **Spring Framework**

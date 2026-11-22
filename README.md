@@ -19,11 +19,11 @@
 
 ## 🙋 About me
 
-I'm a software engineer with nearly six years of backend experience. After graduating in Software Engineering from Fırat University, I've built content management, e-commerce, campaign and workflow-tracking systems. I mostly work with **PHP / Laravel** and **ASP.NET Core**, design **RESTful APIs**, and spend a lot of time on databases. I also write about backend topics on [Medium](https://medium.com/@ynskrc82).
+I'm a software engineer with nearly six years of backend experience. After graduating in Software Engineering from Fırat University, I've worked on e-commerce, stock, order and warehouse management systems, as well as content management, campaign and workflow-tracking projects. I mostly work with **PHP** and **.NET**, design **RESTful APIs**, and work with **MySQL**, **Elasticsearch**, **Kafka** and **RabbitMQ**. I also write about backend topics on [Medium](https://medium.com/@ynskrc82).
 
 - 🏢 **Now:** Software Engineer at Vivense (remote)
-- 🧰 **Daily stack:** PHP · Laravel · .NET · MySQL · PostgreSQL
-- 🔍 **Interested in:** API design, microservices, message queues, caching
+- 🧰 **Daily stack:** PHP · .NET · MySQL · Elasticsearch · Kafka · RabbitMQ
+- 🔍 **Interested in:** e-commerce backends, messaging, API design, microservices
 - 🎮 **Side quest:** building small mobile games
 - 📍 **Based in:** Türkiye
 
@@ -32,7 +32,10 @@ I'm a software engineer with nearly six years of backend experience. After gradu
 **Software Engineer** · [Vivense](https://www.vivense.com)
 <br/><sub>Apr 2025 – Present · Istanbul, Türkiye · Remote</sub>
 
-- Backend development with PHP on Vivense's online furniture and home e-commerce platform
+- Develop features for [vivense.com](https://www.vivense.com), an online furniture and home e-commerce platform, mainly with PHP and also with .NET
+- Build and maintain the internal software and tools used across the company
+- Worked on stock management, order management and warehouse management projects
+- Work daily with MySQL, Elasticsearch, Kafka and RabbitMQ
 
 **Software Engineer** · Sisord Teknoloji
 <br/><sub>Dec 2020 – Apr 2025 · Istanbul, Türkiye · On-site</sub>
@@ -48,7 +51,7 @@ I'm a software engineer with nearly six years of backend experience. After gradu
 |:--|:--|
 | **Backend** | <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs,java,spring" alt="PHP, Laravel, .NET, C#, Java, Spring" /> |
 | **Data** | <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,elasticsearch" alt="MySQL, PostgreSQL, Redis, Elasticsearch" /> &nbsp;+ MSSQL |
-| **Messaging & tools** | <img src="https://skillicons.dev/icons?i=rabbitmq,docker,git,postman" alt="RabbitMQ, Docker, Git, Postman" /> |
+| **Messaging & tools** | <img src="https://skillicons.dev/icons?i=kafka,rabbitmq,docker,git,postman" alt="Kafka, RabbitMQ, Docker, Git, Postman" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react" alt="JavaScript, HTML, CSS, Bootstrap, React" /> |
 
 ✅ Passed LinkedIn Skill Assessments: **PHP**, **.NET**, **MySQL**, **Spring Framework**
